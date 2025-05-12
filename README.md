@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, my name is Ankita. I’m an experienced web developer with over 8 years of expertise in building and managing complex web applications. My skill set includes PHP frameworks such as CakePHP, Laravel, and Symfony, along with modern frontend technologies like Angular and React. I also have practical knowledge of various DevOps tools and specialize in the development and integration of RESTful APIs.<br>
+Hello, I’m an experienced web developer with over 8 years of expertise in building and managing complex web applications. My skill set includes PHP frameworks such as CakePHP, Laravel, and Symfony, along with modern frontend technologies like Angular and React. I also have practical knowledge of various DevOps tools and specialize in the development and integration of RESTful APIs.<br>
 
 
 # 💻 Tech Stack:
